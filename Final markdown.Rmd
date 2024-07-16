@@ -1,7 +1,6 @@
 ---
 title: "STAT0006 ICA 3"
-author: 'Student numbers: 123456789, 123456789, 123456789, 123456789'
-subtitle: Group XXX
+author: 'Student numbers: 22087103, 22112264, 21132230, 22026212'
 output:
   pdf_document: default
   html_document: default
